@@ -11,7 +11,7 @@
 9. Lyon (la Rugissante)
 10. Toulouse (les Violettes)
 
-*** Ma compagnie est celle de Versailles (la Royale), ainsi que celle des aînés, la CSAO. ***
+**Ma compagnie est celle de Versailles (la Royale), ainsi que celle des aînés, la CSAO.**
 ### Mon grade :
 1. Chefs:
     - [ ] Chef d'etat majeur
