@@ -1,3 +1,5 @@
 # Mon grade :
-- [x] chef moniteur
-- [ ] chef compagnon
+1. Chefs:
+    - [ ] chef d'etat majeur
+    - [x] chef moniteur
+    - [ ] chef compagnon
