@@ -1,3 +1,3 @@
 # Mon grade :
-[x] chef moniteur
-[ ] chef compagnon
+- [x] chef moniteur
+- [ ] chef compagnon
